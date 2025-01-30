@@ -1,4 +1,4 @@
-# Train Booking System System
+# Train Booking System 
 
   This Train Booking System is designed to replicate essential features of the IRCTC platform. It allows users to book train seats, check train availability, and manage train details efficiently. The system also incorporates role-based access control for both users and administrators. The backend is developed using Node.js, Express.js, and MySQL to ensure a seamless and scalable experience.
   **Node.js**, **Express.js**, and **MySQL**.
